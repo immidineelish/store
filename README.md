@@ -1,1 +1,1 @@
-https://github.com/immidineelish/store.git
+link-https://github.com/immidineelish/store.git
